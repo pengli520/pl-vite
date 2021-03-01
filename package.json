@@ -1,0 +1,17 @@
+{
+  "name": "pl-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "pl.js",
+  "scripts": {
+    "dev": "pl-vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.13.1"
+  }
+}
